@@ -5,14 +5,17 @@ export function Education() {
 			<form>
 				<div>
 					<label htmlFor="schoolName">School Name</label>
+					<br />
 					<input type="text" id="schoolName" />
 				</div>
 				<div>
 					<label htmlFor="TitleOfStudy">Title Of Study </label>
+					<br />
 					<input type="text" id="TitleOfStudy" />
 				</div>
 				<div>
 					<label htmlFor="dateOfStudy">Date Range</label>
+					<br />
 					<input type="text" id="dateOfStudy" placeholder="September 2023 - Present" />
 				</div>
 				<div>

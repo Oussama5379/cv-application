@@ -5,14 +5,17 @@ export function General() {
 			<form>
 				<div>
 					<label htmlFor="name">Name</label>
+					<br />
 					<input type="text" id="name" />
 				</div>
 				<div>
 					<label htmlFor="email">Email</label>
+					<br />
 					<input type="email" id="email" />
 				</div>
 				<div>
 					<label htmlFor="phone">Phone</label>
+					<br />
 					<input type="tel" id="phone" />
 				</div>
 				<div>

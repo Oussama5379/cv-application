@@ -1,6 +1,6 @@
 export function Resume() {
 	return (
-		<div className="Resume">
+		<div className="resume">
 			<div className="general">
 				<h2>General Information</h2>
 			</div>
