@@ -5,21 +5,27 @@
 	background-color: beige;
 	padding: 50px;
 	justify-content: space-around;
+	gap: 100px;
 }
 .infos {
-	width: 300px;
+	width: 30%;
 }
 .resume {
-	width: 500px;
+	width: 50%;
+	background-color: aliceblue;
+	padding: 50px;
 }
 .infos div {
 	margin: 5px;
 }
-button {
-	margin: 5px;
-}
+
 input {
 	width: 300px;
 	height: 25px;
 	border-radius: 30px;
+	padding: 5px;
+	font-size: 16px;
+}
+button {
+	margin: 5px;
 }
